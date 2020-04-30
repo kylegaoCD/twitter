@@ -8,6 +8,7 @@ import requests
 # from utils.credentials import *
 
 
+#  TODO 暂时没有twitter application，官网因为新冠延迟申请，不使用SDK要求下，我准备用requests去请求
 # def get_token(keyword, count):
     # timestamp = str(time.time())
     # noncestr = ''.join(random.choice(string.ascii_letters + string.digits) for _ in range(8))  # 创建随机字符串
